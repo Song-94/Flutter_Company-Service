@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://inkscape.sourceforge.net/DTD/sodipodi-0.dtd" _SVGFile__filename="oldscale/actions/goto.svg" version="1.0" viewBox="0 0 60 60">
+ <g transform="matrix(1.1937 0 0 1.1569 .84202 -4.7081)" stroke-linecap="round" stroke-linejoin="round">
+  <path d="m19.382 45.937l14.895-15.937-14.895-15.937v10.625h-16.159l1e-4 10.624h16.159v10.625z" fill="none" stroke="#fff" stroke-width="6.914"/>
+  <path d="m28.139 45.937l14.895-15.937-14.895-15.937h17.493v31.874h-17.493z" fill="none" stroke="#fff" stroke-width="6.914"/>
+  <path d="m19.382 45.937l14.895-15.937-14.895-15.937v10.625h-16.159l1e-4 10.624h16.159v10.625z" fill="#476cb3" fill-rule="evenodd" stroke="#476cb3" stroke-width="2.6592"/>
+  <path d="m28.139 45.937l14.895-15.937-14.895-15.937h17.493v31.874h-17.493z" fill="#9da1a6" fill-rule="evenodd" stroke="#9da1a6" stroke-width="2.6592"/>
+ </g>
+</svg>
